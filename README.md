@@ -1,6 +1,7 @@
 Zentra Bot Gizlilik Sözleşmesi;
 ```
-Geliştirici Nes#1905
+Geliştirici 
+Nes#1905
 Sahibiler 
 Hypuin#2793
 Nes#1905
