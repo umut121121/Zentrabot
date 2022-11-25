@@ -12,6 +12,8 @@ Zentra Bot Gizlilik Sözleşmesi
 2. Zentra 3 Tarf Kişilerle Verileri Paylaşmaz
 3. Zentra Bot Datalar Çok İyi Bir Çekilde Saklanıyor
 ```
-> Herhangi Bir Sorunda Nes#1905
 ```
-**Zentra Bot Hergün Gelişiyor**
+> Herhangi Bir Sorunda Nes#1905
+
+> Zentra Bot Hergün Gelişiyor
+```
