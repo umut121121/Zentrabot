@@ -7,10 +7,6 @@ Nes#1905
 ```
 
 ```
-Config'i doldur
-npm install yap modülleri kur
-Start'a Bas Botu Çalıştır
-```
 Zentra Bot Gizlilik Sözleşmesi
 1. Zentra Bot Gizlilik Önem Veriyoruz
 2. Zentra 3 Tarf Kişilerle Verileri Paylaşmaz
