@@ -1,5 +1,5 @@
 Zentra Bot Gizlilik Sözleşmesi;
-```json
+```
 Geliştirici Nes#1905
 Sahibiler 
 Hypuin#2793
